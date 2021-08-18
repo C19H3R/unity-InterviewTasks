@@ -1,3 +1,5 @@
 Create a scene which has a Bounded area and 2 spheres each of them can move using different
 keys. You need to create a functionality that Spheres can collide with the walls and the ground
 plane but can’t collide with each other, they will just pass through each other.
+
+EDIT: CONTROLS WASD / UpDownLeftRight
